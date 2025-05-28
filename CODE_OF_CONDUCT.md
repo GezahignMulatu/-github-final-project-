@@ -34,6 +34,3 @@ This Code of Conduct applies to all interactions within the project, including G
 ## **7. Acknowledgment**  
 This Code of Conduct is adapted from the **[Contributor Covenant](https://www.contributor-covenant.org/)**, a widely used standard for open-source communities.
 
----
-
-Would you like help refining this further or adding additional details? 🚀
