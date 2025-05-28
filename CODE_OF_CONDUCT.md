@@ -23,7 +23,7 @@ The following behaviors are **not** tolerated:
 - Sharing private information without consent.  
 
 ## **4. Reporting Violations**  
-If you witness or experience unacceptable behavior, please report it to **[your contact email]**. Reports will be reviewed and appropriate action will be taken.
+If you witness or experience unacceptable behavior, please report it to **[gezahign.mulatu2025@gmail.com]**. Reports will be reviewed and appropriate action will be taken.
 
 ## **5. Enforcement**  
 Violations of this Code of Conduct may result in warnings, temporary bans, or permanent removal from the community, depending on the severity of the issue.
